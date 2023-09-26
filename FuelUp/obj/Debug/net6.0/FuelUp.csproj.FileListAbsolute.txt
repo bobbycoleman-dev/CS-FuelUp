@@ -1,0 +1,15 @@
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/bin/Debug/net6.0/FuelUp
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/bin/Debug/net6.0/FuelUp.deps.json
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/bin/Debug/net6.0/FuelUp.runtimeconfig.json
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/bin/Debug/net6.0/FuelUp.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/bin/Debug/net6.0/FuelUp.pdb
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/obj/Debug/net6.0/FuelUp.csproj.AssemblyReference.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/obj/Debug/net6.0/FuelUp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/obj/Debug/net6.0/FuelUp.AssemblyInfoInputs.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/obj/Debug/net6.0/FuelUp.AssemblyInfo.cs
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/obj/Debug/net6.0/FuelUp.csproj.CoreCompileInputs.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/obj/Debug/net6.0/FuelUp.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/obj/Debug/net6.0/refint/FuelUp.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/obj/Debug/net6.0/FuelUp.pdb
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/obj/Debug/net6.0/FuelUp.genruntimeconfig.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-FuelUp/FuelUp/obj/Debug/net6.0/ref/FuelUp.dll
